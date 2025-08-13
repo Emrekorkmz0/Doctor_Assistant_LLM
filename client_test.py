@@ -23,7 +23,7 @@ while True:
         print("Conversation is over")
         break
 
-    # data packet which will be sent
+    # data packet which will be sent in json format
 
     payload = {
         "name":name,
